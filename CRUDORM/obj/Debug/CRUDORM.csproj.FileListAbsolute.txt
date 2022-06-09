@@ -1,0 +1,15 @@
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\obj\Debug\CRUDORM.csproj.CoreCompileInputs.cache
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\bin\Debug\CRUDORM.exe.config
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\bin\Debug\CRUDORM.exe
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\bin\Debug\CRUDORM.pdb
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\bin\Debug\EntityFramework.dll
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\bin\Debug\EntityFramework.SqlServer.dll
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\bin\Debug\EntityFramework.xml
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\bin\Debug\EntityFramework.SqlServer.xml
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\obj\Debug\CRUDORM.csproj.CopyComplete
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\obj\Debug\CRUDORM.exe
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\obj\Debug\CRUDORM.pdb
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\obj\Debug\CRUDORM.csproj.GenerateResource.cache
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\obj\Debug\CRUDORM.Presentation.Form1.resources
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\obj\Debug\CRUDORM.csproj.AssemblyReference.cache
+D:\NP IT KARIERA\Razrabotka na softuer\7.Свързване-на-приложения-с-бази-от-данни-20190213\CRUDORM\CRUDORM\obj\Debug\CRUDORM.Migrations.InitMigr.resources
